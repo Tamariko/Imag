@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url(Image.jpg);
+}
+#field {
+  border: double red 10px;
+  height: 100%;
+  box-sizing: border-box;
+}
+#cirkle, #square, #ball, #image {
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+}
+/* #square {
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+#ball {
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+#tan {
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+} */
